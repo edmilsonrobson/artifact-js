@@ -1,0 +1,12 @@
+{
+  "name": "ArtifactJS",
+  "version": "0.1.0",
+  "description": "Wrapper for Valve's Artifact API in Javascript",
+  "main": "index.js",
+  "repository": "https://github.com/edmilsonrobson/artifact-ccg-js.git",
+  "author": "Edmilson Rocha <edmilsonrobson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
