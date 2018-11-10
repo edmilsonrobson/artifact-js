@@ -12,7 +12,7 @@ artifactJS.cardSet.getSet("00").then(response => console.log(response))
 ```
 
 This will print the list of cards from card set `00`.
-You can view an example response below ]or by clicking here, from Valve's official repo](https://github.com/ValveSoftware/ArtifactDeckCode/blob/master/README.md)
+You can view an example response below [or by clicking here, from Valve's official repo](https://github.com/ValveSoftware/ArtifactDeckCode/blob/master/README.md)
 
 ```
 {
