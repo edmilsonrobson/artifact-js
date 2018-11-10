@@ -4,6 +4,13 @@ A Javascript API Wrapper for Valve's cardgame Artifact (with built-in caching).
 
 ### How to Use
 
+Install it from npm:
+```
+npm install artifact-js --save
+// OR
+yarn add artifact-js
+```
+
 Currently, the only method available is getting all cards from a set:
 
 ```
