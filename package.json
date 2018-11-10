@@ -1,5 +1,5 @@
 {
-  "name": "ArtifactJS",
+  "name": "artifact-js",
   "version": "0.1.0",
   "description": "Wrapper for Valve's Artifact API in Javascript",
   "main": "index.js",
