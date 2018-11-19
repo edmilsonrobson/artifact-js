@@ -7,7 +7,9 @@ A Javascript API Wrapper for Valve's cardgame Artifact (with built-in caching).
 Install it from npm:
 ```
 npm install artifact-js --save
-// OR
+```
+or
+```
 yarn add artifact-js
 ```
 
